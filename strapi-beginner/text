@@ -1,0 +1,21 @@
+
+Your application was created at C:\Users\Vodro\Documents\dev\lhive-website\strapi-beginner.
+
+Available commands in your project:
+
+  yarn develop
+  Start Strapi in watch mode.
+
+  yarn start
+  Start Strapi without watch mode.
+
+  yarn build
+  Build Strapi admin panel.
+
+  yarn strapi
+  Display all available commands.
+
+You can start by doing:
+
+  cd C:\Users\Vodro\Documents\dev\lhive-website\strapi-beginner
+  yarn develop
